@@ -185,10 +185,12 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## Output screen shots of proteus  :
- 
+ ![image](https://github.com/user-attachments/assets/b8d8ed77-d46f-45ec-96f7-9c04601c2703)
+
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
- 
+ ![image](https://github.com/user-attachments/assets/7f2a918f-401c-4f37-813e-74b127498c88)
+
 ## Result :
 Interfacing a 4x4 keypad with ARM microcontroller are simulated in proteus and the results are verified.
